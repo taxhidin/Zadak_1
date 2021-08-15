@@ -11,23 +11,6 @@
 
     <form action="hello-servlet" method="post">
 
-<%--        <p>
-
-    Input number A <input type="number" name ="a" required/>
-
-        </p>
-
-        <p>
-
-            Input number B <input type="number" name ="b" required/>
-
-        </p>
-
-        <p>
-
-            <input type="submit" value="RUN"/>
-
-        </p>--%>
 
         <p>
 
@@ -53,59 +36,12 @@
 
     </p>
 
-<%--        <p>
-
-            potrebno je da raditi
-
-        </p>--%>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     </form>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
-
-
-
-
-
-
-
-
-
-<%--<h1><%= "Hello World!" %>
-</h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>--%>
 
 
 </body>

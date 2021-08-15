@@ -55,14 +55,6 @@ public class HelloServlet extends HttpServlet {
             request.getRequestDispatcher("result.jsp").forward(request, response);
 
 
-
-
-
-
-
-/*        Ako je broj sati veći od 8, rješenje treba prikazati
-        kao "X dana i Y sati".*/
-
     }
 
     private double calculate(double cost_product_1, double work_days_2, double salary_3) {
